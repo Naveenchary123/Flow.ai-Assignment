@@ -50,7 +50,7 @@ API documentation:
    Response Body:
 
    {
-   "amound" : 50
+   "amound" : 20
    }
 
    Resposne: Returns the updated trasnction object
